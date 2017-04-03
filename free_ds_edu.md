@@ -9,7 +9,7 @@ tokyo or el salvador. This may be a naive understatment, but it is more true now
 
 Lets decompose what it means to be a Data Scientist.
 
-![]https://subhamoyburman.files.wordpress.com/2014/12/big-data-2.jpg)
+![](https://subhamoyburman.files.wordpress.com/2014/12/big-data-2.jpg)
 
 Refining your skillset within any area, systematically improve your skillset as a datascientist.
 
